@@ -1,5 +1,26 @@
 # Projet réalisé dans le cadre d'un hackathon à la Wild Code School du 19 au 20 novembre 2020
 
+## Thème du hackathon 
+"Back to the future" : Développer une application qui aurait pu être d'une grande utilité aux contemporains d'une époque historique avec une contrainte technique : consommer au moins une API
+
+## Notre projet : 
+https://hattersgonnahat.fr/snapshot/index
+
+Snapshot, un générateur de shooter qui remplace les alcools interdits pendant la dure période de la Prohibition par des alcools de contrebande ou des ingrédients alternatifs. 
+
+Afin de ne pas se faire prendre par la police qui veille au grain, la recette ne sera visible que pendant 20 secondes, vous serez ensuite redirigés vers le site du fameux chapelier 'Hatters Gonna Hat", car à cette époque, c'est bien connu, les gens qui portent des chapeaux sont des gens biens, cela permettra donc de lever tout soupçon sur votre personne. Cliquer sur n'importe quel lien vous ramènera bien sur vers Snapshot.
+
+Nous avons également prévu un bouton d'urgence qui vous redirigera instantanément si d'aventure un représentant de l'autorité faisait soudainement irruption derrière vous. 
+
+Vous pourrez également contacter l'administrateur du site afin d'être mis en relation avec un contrebandier de votre secteur. 
+
+Petit bonus, pour vous soutenir moralement en ces temps difficiles, nous avons fait le choix d'ajouter une phrase inspirante à chaque recette.
+
+Coté technique, pour générer les recettes, nous avons utilisé l'API "TheCocktailDB" en remplacant 5 alcools communs par des alias de contrebande, puis les autres alcools par des ingrédients aléatoires. Les phrases inspirantes quant à elles viennent de l'API "Forismatic".
+
+
+
+
 
 
 # Simple MVC
